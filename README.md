@@ -4,6 +4,10 @@ Project in group with Mathis.Q.
 
 <H1>🎯 GOALS 🎯</H1>
 Create a Hash algo. <br>
+<br>
+
+> [!IMPORTANT]
+> Project isn't full fonctionnal.
 
 <H1>🤖 MOULINETTE RESULT 🤖</H1>
 As the people at epitech know, the project is corrected by the Mouli, of which here are the results : <br>
