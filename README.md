@@ -1,4 +1,4 @@
-<H1>🖥️ MY_PRINTF 🖥️</H1>
+<H1>🖥️ Secured 🖥️</H1>
 Secured is a project of Epitech.
 Project in group with Mathis.Q.
 
